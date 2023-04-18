@@ -23,4 +23,4 @@ Después de normalizar el diagrama entidad relación, surgen más entidades para
 
 Las tablas son una parte fundamental en cualquier base de datos, ya que almacenan y organizan la información de manera estructurada. Las tablas pueden tener restricciones y validaciones que garantizan que los datos almacenados sean precisos y consistentes. Las restricciones también pueden evitar que se agreguen datos duplicados o que se agreguen valores incorrectos en campos específicos: 
 
-<img src="https://github.com/annarochav/wholesale_database/blob/main/imagenes/tablas_2.png" width="550" height="" />
+<img src="https://github.com/annarochav/wholesale_database/blob/main/imagenes/tablas2.png" width="550" height="" />
