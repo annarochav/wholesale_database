@@ -1,0 +1,34 @@
+﻿id_puesto,puesto
+1,Abogado laboralista
+2,Analista financiero
+3,Atención al cliente
+4,Data analyst
+5,Responsable de calidad
+6,Responsable de cobros
+7,Jefe de almacén
+8,Brand Manager Sr.
+9,Brand Manager Jr.
+10,Sales Manager
+11,Digital marketing manager
+12,Director de operaciones
+13,Logistics Manager
+14,Desarrollador de Negocios
+15,Supervisor de Marketing
+16,Auxiliar Contable
+17,Auxiliar Administrativo
+18,Contador General
+19,Analista de Finanzas Junior
+20,Auxiliar de Cobranzas
+21,Encargado de Facturación y/o Cuentas Corrientes
+22,Analista de Créditos y Riesgos
+23,Programador
+24,Programador Junior
+25,Encargado en Infraestructura Tecnológica
+26,Administrador de Base de Datos
+27,Desarrollador Web Junior
+28,Desarrollador Web
+29,Auxiliar de Recursos Humanos
+30,Secretario(a)
+31,Gerente de Recursos Humanos
+32,Encargado(a) de Limpieza *
+33,Agente de Servicios Post Venta

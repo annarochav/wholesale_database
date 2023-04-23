@@ -1,0 +1,101 @@
+﻿id_empleado,nombre,fecha_nacimiento,id_departamento,id_puesto,sueldo
+1,Nacio Casares-Fortuny,10/2/1993,7,11,40040.9
+2,Catalina Requena Carreño,7/29/1987,7,20,28418.89
+3,Emiliano Reguera Posada,2/5/1984,9,7,64762.28
+4,Eliana Barceló Toro,2/4/2000,6,27,84352.47
+5,Patricio Heraclio Guardiola Bernal,5/9/1994,4,9,34930.97
+6,Segismundo Company Rodrigo,5/19/1982,10,6,73377.31
+7,Irene Pedraza Vega,6/22/1989,4,16,91524.66
+8,Bonifacio Feijoo Cruz,9/3/1979,6,2,58587.47
+9,Eligia Gámez Criado,3/14/1984,7,10,41842.27
+10,Alberto Mateos Pont,10/7/1970,10,22,56027.59
+11,Basilio Fabregat Asensio,2/6/1972,4,12,74212.29
+12,Esteban Ayuso Pallarès,5/3/1973,10,28,56417.37
+13,Carmelo Nacio Campo Pombo,3/6/1972,9,29,43681.59
+14,Ruperta Bonet Acuña,3/28/1976,6,3,15731.03
+15,Nereida Antonia Romero Jaume,7/2/1989,1,29,45744.94
+16,José Baquero-Arroyo,11/20/1982,3,28,72684.81
+17,Valentín Nilo Uribe Seco,3/21/1979,9,20,16035.99
+18,Pelayo Marco Arroyo Figuerola,9/10/1991,2,2,40517.43
+19,Purificación Zaragoza,7/4/1976,7,19,63961.55
+20,Encarna Linares Doménech,8/19/1978,10,31,13534.96
+21,Matías Aliaga Cañizares,11/12/1977,10,3,13002.49
+22,Miguel Moisés Pujadas Saldaña,4/19/1998,3,20,65655.59
+23,Encarnacion del Arévalo,8/5/1976,5,21,32495.74
+24,Lucila Vives-Vázquez,12/8/1985,9,32,70161.37
+25,Gracia Morante-Elorza,2/3/1980,9,30,29181.14
+26,Águeda Grande Marquez,1/25/1978,7,9,42606.67
+27,Rosalía Alvarado Girona,1/3/1979,8,30,94932.82
+28,René Arrieta Iriarte,1/6/1987,6,20,55685.57
+29,María Cristina Loida Arévalo Español,8/19/1998,5,30,77178.03
+30,Estela Amores Azcona,12/15/1986,3,6,13082.53
+31,Hugo Rocamora Serrano,1/2/1977,2,12,83560.86
+32,Bonifacio Pereira Torrecilla,1/24/1974,7,19,38483.23
+33,Saturnina Esparza Crespo,4/23/1998,7,32,96580.45
+34,Javi Berenguer Navarrete,6/16/1996,8,1,81407.97
+35,Julio Fabián Cánovas Lasa,4/20/1978,8,31,68751.51
+36,René Heriberto Díez Guardiola,8/5/1976,1,31,57852.25
+37,Leticia Cabello Moreno,4/4/2000,9,29,40823.51
+38,Eligia Bernad Bernad,2/23/1996,3,11,81437.95
+39,Francisco del Galiano,5/4/1971,7,1,39558.52
+40,Jose Ignacio Roca-Rubio,11/3/1986,1,22,56878.39
+41,Odalis Arteaga Ugarte,1/17/1984,9,23,92423.1
+42,Custodio Carpio Sedano,6/23/1986,5,2,60981.15
+43,Jaime del Arco,1/11/2000,2,17,91080.79
+44,Noemí Pi Morera,1/23/1990,3,15,18444.19
+45,Tomasa Iñiguez,9/24/1988,5,2,57471.44
+46,Marina Sainz Menéndez,6/6/1984,4,18,41394.32
+47,Catalina Pascual Villar,11/10/1995,10,1,70332.92
+48,Liliana Estrella Márquez Córdoba,8/16/1996,6,11,66896.52
+49,Lalo Gámez Otero,10/20/1970,5,16,63338.69
+50,Óscar Sobrino Báez,6/18/1997,10,1,10786.95
+51,Evangelina de Bejarano,11/26/1981,6,10,70105.69
+52,Ariadna Taboada Cañizares,7/31/1989,2,27,33457.02
+53,Cristina Palma Varela,12/22/1975,1,31,63113.73
+54,Lucila de Alarcón,12/11/1983,2,23,53128.29
+55,Luciano Viana Martin,11/6/1992,5,26,52507.19
+56,Primitivo Ponce Palacio,9/23/1996,6,17,90544.12
+57,Mohamed Piña Calvo,3/5/1995,10,19,22750.4
+58,Rafa del Pintor,11/29/1999,5,6,41981.99
+59,Francisco Riquelme Arteaga,1/24/1975,4,15,22446.27
+60,Fidela de Andrés,5/12/1976,2,11,85274.42
+61,Imelda Ariño Montenegro,8/1/1973,5,28,14878.58
+62,Vicenta Ávila Mir,6/28/1979,3,8,62960.57
+63,Yago Navarrete Cañas,7/9/1994,3,18,95405.74
+64,Salvador Carlos-Ballester,12/18/1990,5,5,99665.13
+65,Felicidad Lucena-Uribe,6/29/1976,1,22,83954.51
+66,Prudencio Solé Lumbreras,9/20/1986,6,31,24142.53
+67,Heliodoro Heredia Ariza,10/18/1994,8,9,77428.48
+68,Esteban Casado-Doménech,2/23/1992,1,23,18321.74
+69,Andrés Felipe Salom Gonzalo,4/5/1978,2,17,24359.24
+70,Rosaura Salazar Pozuelo,9/11/1985,1,29,75810.45
+71,Eladio Pascual Cerdá Almeida,3/4/1998,9,25,45448.17
+72,Custodio Rocamora Duarte,3/16/1973,5,7,85112.07
+73,Manola Folch Segarra,8/26/1981,5,30,57318.23
+74,Fortunato Cervera Duran,8/4/1972,7,12,43149.19
+75,Sancho Gallego,4/29/1997,7,26,74647.18
+76,Adrián Nicanor Andrés Tamayo,11/27/1980,9,26,50475.97
+77,Toni Otero Palomar,2/2/1987,5,15,24440.88
+78,Febe Marita Murillo Arce,3/31/1995,3,2,13141.26
+79,Andrés Tovar Páez,5/10/1974,2,32,52656.07
+80,Ciriaco Cristian Sancho Tello,7/10/1973,3,18,33381.78
+81,Bartolomé Nieto,2/17/1986,9,19,44246.71
+82,Porfirio Sanjuan Antúnez,5/15/1988,6,32,44615.5
+83,Joaquina del Ayuso,5/14/1987,5,23,93373.54
+84,Olalla Borja Bonilla,6/6/1993,1,14,31702.72
+85,Encarnita Carreras-Barbero,8/12/1998,5,6,97710.96
+86,Modesta Ferrández Coello,9/28/1973,1,13,28786.42
+87,Paco Bauzà Badía,2/8/1974,5,15,10496.02
+88,Edgardo Mancebo Bilbao,9/28/1978,4,24,32713.13
+89,Adelina Bastida-Arnau,8/29/1970,9,14,41990.25
+90,Octavia Ramírez Arco,5/17/1982,10,4,46878.81
+91,Bonifacio Orozco Avilés,2/6/1987,6,13,25800.12
+92,Petrona Grau-Mancebo,2/11/1998,1,26,99217.23
+93,Juan Manuel de Botella,10/25/1992,9,26,36304.55
+94,Mariana Cáceres Barragán,4/14/1988,4,22,30801.7
+95,Abigaíl Escobar Cruz,3/16/1995,6,8,60269.97
+96,Moisés Efraín Macias Alcolea,7/19/1999,4,9,57850.45
+97,Zoraida Macias,12/26/1995,8,6,78877.32
+98,Maite Vives,7/23/1998,4,20,12585.99
+99,Ángel Víctor Cabo Correa,9/10/1994,2,1,95442.75
+100,Loreto Saavedra Chamorro,9/7/1987,9,2,72830.1
