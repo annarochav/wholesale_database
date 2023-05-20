@@ -1,0 +1,101 @@
+"id_empleado";"nombre";"fecha_nacimiento";"id_departamento";"id_puesto";"sueldo"
+1;"Nacio Casares-Fortuny";"1993-10-02";7;11;40040.9
+2;"Catalina Requena Carreño";"1987-07-29";7;20;28418.9
+3;"Emiliano Reguera Posada";"1984-02-05";9;7;64762.3
+4;"Eliana Barceló Toro";"2000-02-04";6;27;84352.5
+5;"Patricio Heraclio Guardiola Bernal";"1994-05-09";4;9;34931.0
+6;"Segismundo Company Rodrigo";"1982-05-19";10;6;73377.3
+7;"Irene Pedraza Vega";"1989-06-22";4;16;91524.7
+8;"Bonifacio Feijoo Cruz";"1979-09-03";6;2;58587.5
+9;"Eligia Gámez Criado";"1984-03-14";7;10;41842.3
+10;"Alberto Mateos Pont";"1970-10-07";10;22;56027.6
+11;"Basilio Fabregat Asensio";"1972-02-06";4;12;74212.3
+12;"Esteban Ayuso Pallarès";"1973-05-03";10;28;56417.4
+13;"Carmelo Nacio Campo Pombo";"1972-03-06";9;29;43681.6
+14;"Ruperta Bonet Acuña";"1976-03-28";6;3;15731.0
+15;"Nereida Antonia Romero Jaume";"1989-07-02";1;29;45744.9
+16;"José Baquero-Arroyo";"1982-11-20";3;28;72684.8
+17;"Valentín Nilo Uribe Seco";"1979-03-21";9;20;16036.0
+18;"Pelayo Marco Arroyo Figuerola";"1991-09-10";2;2;40517.4
+19;"Purificación Zaragoza";"1976-07-04";7;19;63961.6
+20;"Encarna Linares Doménech";"1978-08-19";10;31;13535.0
+21;"Matías Aliaga Cañizares";"1977-11-12";10;3;13002.5
+22;"Miguel Moisés Pujadas Saldaña";"1998-04-19";3;20;65655.6
+23;"Encarnacion del Arévalo";"1976-08-05";5;21;32495.7
+24;"Lucila Vives-Vázquez";"1985-12-08";9;32;70161.4
+25;"Gracia Morante-Elorza";"1980-02-03";9;30;29181.1
+26;"Águeda Grande Marquez";"1978-01-25";7;9;42606.7
+27;"Rosalía Alvarado Girona";"1979-01-03";8;30;94932.8
+28;"René Arrieta Iriarte";"1987-01-06";6;20;55685.6
+29;"María Cristina Loida Arévalo Español";"1998-08-19";5;30;77178.0
+30;"Estela Amores Azcona";"1986-12-15";3;6;13082.5
+31;"Hugo Rocamora Serrano";"1977-01-02";2;12;83560.9
+32;"Bonifacio Pereira Torrecilla";"1974-01-24";7;19;38483.2
+33;"Saturnina Esparza Crespo";"1998-04-23";7;32;96580.5
+34;"Javi Berenguer Navarrete";"1996-06-16";8;1;81408.0
+35;"Julio Fabián Cánovas Lasa";"1978-04-20";8;31;68751.5
+36;"René Heriberto Díez Guardiola";"1976-08-05";1;31;57852.2
+37;"Leticia Cabello Moreno";"2000-04-04";9;29;40823.5
+38;"Eligia Bernad Bernad";"1996-02-23";3;11;81438.0
+39;"Francisco del Galiano";"1971-05-04";7;1;39558.5
+40;"Jose Ignacio Roca-Rubio";"1986-11-03";1;22;56878.4
+41;"Odalis Arteaga Ugarte";"1984-01-17";9;23;92423.1
+42;"Custodio Carpio Sedano";"1986-06-23";5;2;60981.1
+43;"Jaime del Arco";"2000-01-11";2;17;91080.8
+44;"Noemí Pi Morera";"1990-01-23";3;15;18444.2
+45;"Tomasa Iñiguez";"1988-09-24";5;2;57471.4
+46;"Marina Sainz Menéndez";"1984-06-06";4;18;41394.3
+47;"Catalina Pascual Villar";"1995-11-10";10;1;70332.9
+48;"Liliana Estrella Márquez Córdoba";"1996-08-16";6;11;66896.5
+49;"Lalo Gámez Otero";"1970-10-20";5;16;63338.7
+50;"Óscar Sobrino Báez";"1997-06-18";10;1;10787.0
+51;"Evangelina de Bejarano";"1981-11-26";6;10;70105.7
+52;"Ariadna Taboada Cañizares";"1989-07-31";2;27;33457.0
+53;"Cristina Palma Varela";"1975-12-22";1;31;63113.7
+54;"Lucila de Alarcón";"1983-12-11";2;23;53128.3
+55;"Luciano Viana Martin";"1992-11-06";5;26;52507.2
+56;"Primitivo Ponce Palacio";"1996-09-23";6;17;90544.1
+57;"Mohamed Piña Calvo";"1995-03-05";10;19;22750.4
+58;"Rafa del Pintor";"1999-11-29";5;6;41982.0
+59;"Francisco Riquelme Arteaga";"1975-01-24";4;15;22446.3
+60;"Fidela de Andrés";"1976-05-12";2;11;85274.4
+61;"Imelda Ariño Montenegro";"1973-08-01";5;28;14878.6
+62;"Vicenta Ávila Mir";"1979-06-28";3;8;62960.6
+63;"Yago Navarrete Cañas";"1994-07-09";3;18;95405.7
+64;"Salvador Carlos-Ballester";"1990-12-18";5;5;99665.1
+65;"Felicidad Lucena-Uribe";"1976-06-29";1;22;83954.5
+66;"Prudencio Solé Lumbreras";"1986-09-20";6;31;24142.5
+67;"Heliodoro Heredia Ariza";"1994-10-18";8;9;77428.5
+68;"Esteban Casado-Doménech";"1992-02-23";1;23;18321.7
+69;"Andrés Felipe Salom Gonzalo";"1978-04-05";2;17;24359.2
+70;"Rosaura Salazar Pozuelo";"1985-09-11";1;29;75810.5
+71;"Eladio Pascual Cerdá Almeida";"1998-03-04";9;25;45448.2
+72;"Custodio Rocamora Duarte";"1973-03-16";5;7;85112.1
+73;"Manola Folch Segarra";"1981-08-26";5;30;57318.2
+74;"Fortunato Cervera Duran";"1972-08-04";7;12;43149.2
+75;"Sancho Gallego";"1997-04-29";7;26;74647.2
+76;"Adrián Nicanor Andrés Tamayo";"1980-11-27";9;26;50476.0
+77;"Toni Otero Palomar";"1987-02-02";5;15;24440.9
+78;"Febe Marita Murillo Arce";"1995-03-31";3;2;13141.3
+79;"Andrés Tovar Páez";"1974-05-10";2;32;52656.1
+80;"Ciriaco Cristian Sancho Tello";"1973-07-10";3;18;33381.8
+81;"Bartolomé Nieto";"1986-02-17";9;19;44246.7
+82;"Porfirio Sanjuan Antúnez";"1988-05-15";6;32;44615.5
+83;"Joaquina del Ayuso";"1987-05-14";5;23;93373.5
+84;"Olalla Borja Bonilla";"1993-06-06";1;14;31702.7
+85;"Encarnita Carreras-Barbero";"1998-08-12";5;6;97711.0
+86;"Modesta Ferrández Coello";"1973-09-28";1;13;28786.4
+87;"Paco Bauzà Badía";"1974-02-08";5;15;10496.0
+88;"Edgardo Mancebo Bilbao";"1978-09-28";4;24;32713.1
+89;"Adelina Bastida-Arnau";"1970-08-29";9;14;41990.2
+90;"Octavia Ramírez Arco";"1982-05-17";10;4;46878.8
+91;"Bonifacio Orozco Avilés";"1987-02-06";6;13;25800.1
+92;"Petrona Grau-Mancebo";"1998-02-11";1;26;99217.2
+93;"Juan Manuel de Botella";"1992-10-25";9;26;36304.6
+94;"Mariana Cáceres Barragán";"1988-04-14";4;22;30801.7
+95;"Abigaíl Escobar Cruz";"1995-03-16";6;8;60270.0
+96;"Moisés Efraín Macias Alcolea";"1999-07-19";4;9;57850.4
+97;"Zoraida Macias";"1995-12-26";8;6;78877.3
+98;"Maite Vives";"1998-07-23";4;20;12586.0
+99;"Ángel Víctor Cabo Correa";"1994-09-10";2;1;95442.8
+100;"Loreto Saavedra Chamorro";"1987-09-07";9;2;72830.1
