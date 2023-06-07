@@ -1,3 +1,21 @@
+-- Las tablas dentro de este backup son:
+-- 1. auditorias
+-- 2. categorias
+-- 3. clientes
+-- 4. colores
+-- 5. compras
+-- 6. departamentos
+-- 7. detalle_compras
+-- 8. detalle_ventas
+-- 9. empleados
+-- 10. marcas
+-- 11. productos
+-- 12. proveedores
+-- 13. puestos
+-- 14. temporadas
+-- 15. ventas
+
+
 -- MySQL dump 10.13  Distrib 8.0.32, for Win64 (x86_64)
 --
 -- Host: localhost    Database: grupo_eluck
