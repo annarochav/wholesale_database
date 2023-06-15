@@ -157,15 +157,23 @@ Para agregar información a las tablas previamente hechas, hay varias opciones, 
 
  + Descripción: Crea una tabla llamada "AUDITORIAS" que se utilizará para almacenar información de auditoría relacionada con los cambios realizados en otras tablas de la base de datos. 
  + Objetivo: Registro de cambios, seguimiento de actividades, respaldo y recuperación, análisis y reportes
- + Tablas/Datos: La tabla involucrada es d
+ + Tablas/Datos: La tabla involucrada es de auditorias.
 
+**Trigger2: new_product_aud**
 
+ + Descripción: Se dispara después de realizar una inserción en la tabla "productos". Su función principal es registrar información de auditoría relacionada con la creación de un nuevo producto en la tabla "AUDITORIAS". 
+ + Objetivo: Registrar de manera automática y precisa la información de auditoría cuando se crea un nuevo producto en la tabla "productos". 
+ + Tablas/Datos: La tabla involucrada es de productos.
 
+**Trigger3: update_product_aud**
 
+ + Descripción: Se activa después de que se realice una actualización en la tabla "productos". Su función principal es actualizar la información de auditoría relacionada con las actualizaciones realizadas en los productos en la tabla "AUDITORIAS". 
+ + Objetivo: Mantener actualizada la información de auditoría relacionada con las actualizaciones de los productos en la base de datos. 
+ + Tablas/Datos: La tabla involucrada es de productos.
 
+### ⚡Informes generados de esta base de datos
 
-
-
+**Informe de actividad de usuarios:** Este informe brindaría una visión general de las acciones realizadas por cada usuario en la base de datos. Mostraría las inserciones y actualizaciones realizadas por cada usuario, junto con las fechas y horas correspondientes.
 
 
 
