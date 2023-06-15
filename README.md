@@ -15,8 +15,8 @@ Diseñar y desarrollar una base de datos eficiente y bien estructurada que permi
 
 ### ⚡Situaciones Problemáticas
 
- + **Seguridad y privacidad de los datos:** La comercializadora de joyería y relojes maneja información confidencial de sus clientes y empleados, por lo que es crucial garantizar la seguridad y privacidad de los datos almacenados en la base de datos. La falta de medidas de seguridad adecuadas podría comprometer la integridad de la información y poner en riesgo la confianza de los clientes.
- + **Requisitos de escalabilidad y rendimiento:** A medida que el negocio crece y se expande, la base de datos deberá manejar un mayor volumen de datos y proporcionar respuestas rápidas en las consultas y generación de informes. Si la base de datos no está diseñada y optimizada para manejar la carga y el rendimiento requeridos, podría haber problemas de rendimiento y tiempos de respuesta lentos.
+**Seguridad y privacidad de los datos:** La comercializadora de joyería y relojes maneja información confidencial de sus clientes y empleados, por lo que es crucial garantizar la seguridad y privacidad de los datos almacenados en la base de datos. La falta de medidas de seguridad adecuadas podría comprometer la integridad de la información y poner en riesgo la confianza de los clientes.
+**Requisitos de escalabilidad y rendimiento:** A medida que el negocio crece y se expande, la base de datos deberá manejar un mayor volumen de datos y proporcionar respuestas rápidas en las consultas y generación de informes. Si la base de datos no está diseñada y optimizada para manejar la carga y el rendimiento requeridos, podría haber problemas de rendimiento y tiempos de respuesta lentos.
 
 ### ⚡Modelo de Negocio 
 
@@ -175,10 +175,29 @@ Para agregar información a las tablas previamente hechas, hay varias opciones, 
 
 **Informe de actividad de usuarios:** Este informe brindaría una visión general de las acciones realizadas por cada usuario en la base de datos. Mostraría las inserciones y actualizaciones realizadas por cada usuario, junto con las fechas y horas correspondientes.
 
+**Informe de inventario de productos de joyería y relojes:** Este informe mostraría la lista de productos de joyería y relojes disponibles en el inventario, incluyendo su identificación, nombre, precio y cantidad en stock.
 
+***Informe de empleados por departamento:** Este informe listaría a todos los empleados que trabajan en la empresa, incluyendo su identificación, nombre, puesto y sueldo. Facilitaría la gestión y supervisión.
 
+**Informe de detalle de compras:** Este informe proporcionaría información detallada sobre cada orden de compra, incluyendo los productos adquiridos, la cantidad comprada y el precio unitario. Permitiría tener una visión completa de las compras realizadas, identificando los productos específicos y su correspondiente información de compra.
 
+**Informe de ventas totales en un período determinado:** Este informe mostraría el monto total de ventas realizadas en un período de tiempo específico, sin entrar en detalles de productos o transacciones individuales. Proporcionaría una visión general del desempeño de ventas en ese período y permitiría evaluar el rendimiento global del negocio.
 
+### ⚡Tecnologías utilizadas
+
+<img src="https://github.com/annarochav/wholesale_database/blob/main/imagenes/t.jpg" width="550" height="" />
+
+### ⚡Scripts
+
+ + [Script Vistas](https://github.com/annarochav/wholesale_database/blob/main/vistas.sql)
+
+ + [Script Funciones](https://github.com/annarochav/wholesale_database/blob/main/funciones.sql)
+
+ + [Script Stored Procedures](https://github.com/annarochav/wholesale_database/blob/main/stored_procedures.sql)
+
+ + [Script Stored Triggers](https://github.com/annarochav/wholesale_database/blob/main/triggers.sql)
+
+ + [Script Importación de Datos](https://github.com/annarochav/wholesale_database/blob/main/importacion.sql)
 
 
 
