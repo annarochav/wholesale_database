@@ -197,7 +197,7 @@ Para agregar información a las tablas previamente hechas, hay varias opciones, 
 
  + [Script Stored Procedures](https://github.com/annarochav/wholesale_database/blob/main/stored_procedures.sql)
 
- + [Script Stored Triggers](https://github.com/annarochav/wholesale_database/blob/main/triggers.sql)
+ + [Script Triggers](https://github.com/annarochav/wholesale_database/blob/main/triggers.sql)
 
  + [Script Importación de Datos](https://github.com/annarochav/wholesale_database/blob/main/importacion.sql)
 
