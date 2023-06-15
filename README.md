@@ -36,4 +36,48 @@ Después de normalizar el diagrama entidad relación, surgen más entidades para
 
 Las tablas son una parte fundamental en cualquier base de datos, ya que almacenan y organizan la información de manera estructurada. Las tablas pueden tener restricciones y validaciones que garantizan que los datos almacenados sean precisos y consistentes. Las restricciones también pueden evitar que se agreguen datos duplicados o que se agreguen valores incorrectos en campos específicos: 
 
-<img src="https://github.com/annarochav/wholesale_database/blob/main/imagenes/tablas2.png" width="550" height="" />
+<img src="https://github.com/annarochav/wholesale_database/blob/main/imagenes/tablas3.png" width="550" height="" />
+
+### ⚡Script Inserción Datos SQL 
+
+Para agregar información a las tablas previamente hechas, hay varias opciones, la que elegí es por medio de command prompt. Los pasos a seguir son: 
+
+1. Asegurarnos que las carpetas no estén ocultas para que aparezca la carpeta ProgramData
+<img src="https://github.com/annarochav/wholesale_database/blob/main/imagenes/1.png" width="550" height="" />
+2. Dentro de ProgramData nos metemos a MySQL:
+<img src="https://github.com/annarochav/wholesale_database/blob/main/imagenes/2.png" width="550" height="" />
+3. Luego nos metemos a la carpeta MySQLserver 8.0:
+<img src="https://github.com/annarochav/wholesale_database/blob/main/imagenes/3.png" width="550" height="" />
+4. Luego nos metemos a la carpeta Uploads:
+<img src="https://github.com/annarochav/wholesale_database/blob/main/imagenes/4.png" width="550" height="" />
+5. Dentro de uploads ponemos todos los archivos csvs que vamos a utilizar:
+<img src="https://github.com/annarochav/wholesale_database/blob/main/imagenes/5.png" width="550" height="" />
+6.  Después regresamos a la carpeta anterior MySQLserver 8.0 y abrimos el archivo my.ini
+<img src="https://github.com/annarochav/wholesale_database/blob/main/imagenes/6.png" width="550" height="" />
+7. Dentro de my.ini comentamos con un # el enunciado que dice secure-file-priv para que nos permita subir información por medio del prompt.
+<img src="https://github.com/annarochav/wholesale_database/blob/main/imagenes/7.png" width="550" height="" />
+8. Dentro del mismo archivo my.ini agregamos hasta el final local-inifile=1
+<img src="https://github.com/annarochav/wholesale_database/blob/main/imagenes/8.png" width="550" height="" />
+9. Guardamos los cambios y ponemos STOP en MySQL80 dentro de Task Manager:
+<img src="https://github.com/annarochav/wholesale_database/blob/main/imagenes/9.png" width="550" height="" />
+10. Dentro de MySQL Workbench revisamos que el server status se actualizó el día de los cambios
+<img src="https://github.com/annarochav/wholesale_database/blob/main/imagenes/10.png" width="550" height="" />
+11. Por último entramos a Command Prompt y agregamos usuario, contraseña y nombre de la base de datos. Después ponemos la query para subir los archivos csv y revisamos que todo este ok.
+<img src="https://github.com/annarochav/wholesale_database/blob/main/imagenes/11.png" width="550" height="" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
