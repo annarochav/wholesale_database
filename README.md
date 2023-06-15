@@ -65,6 +65,101 @@ Para agregar información a las tablas previamente hechas, hay varias opciones, 
 11. Por último entramos a Command Prompt y agregamos usuario, contraseña y nombre de la base de datos. Después ponemos la query para subir los archivos csv y revisamos que todo este ok.
 <img src="https://github.com/annarochav/wholesale_database/blob/main/imagenes/11.png" width="550" height="" />
 
+### ⚡Vistas
+
+**Vista1: productos_joyeria**
+
+ + Descripción: Esta vista proporciona el inventario que existe de los productos de joyería
+ + Objetivo: Permitir a los usuarios obtener rápidamente información agregada sobre el inventario en un período determinado.
+ + Tablas/Datos: Incluye los campos id_producto, producto, precio e inventario. La tabla que la compone es: productos
+
+**Vista2: productos_relojes**
+
+ + Descripción: Esta vista proporciona el inventario que existe de los productos de relojes.
+ + Objetivo: Permitir a los usuarios obtener rápidamente información agregada sobre el inventario en un período determinado.
+ + Tablas/Datos: Incluye los campos id_producto, producto, precio e inventario. La tabla que la compone es: productos
+
+**Vista3: empleados_joyeria**
+
+ + Descripción: Esta vista muestra la lista de empleados organizados en el departamento de joyería.
+ + Objetivo: Facilitar la gestión y supervisión de los empleados en función de su departamento de trabajo
+ + Tablas/Datos: Incluye campos id_empleado, nombre, puesto y sueldo. Las tablas que la componen son: empleados y puestos.
+
+**Vista4: empleados_relojes**
+
+ + Descripción: Esta vista muestra la lista de empleados organizados en el departamento de relojes.
+ + Objetivo: Facilitar la gestión y supervisión de los empleados en función de su departamento de trabajo.
+ + Tablas/Datos: Incluye campos id_empleado, nombre, puesto y sueldo. Las tablas que la componen son: empleados y puestos.
+
+**Vista5: vista_detalle_compras**
+
+ + Descripción: Esta vista muestra qué productos están incluidos en cada orden de compra.
+ + Objetivo: Proporcionar información detallada sobre los productos que se han comprado en cada orden.
+ + Tablas/Datos: Incluye campos id_compra, id_producto, producto, cantidad y precio. Tablas: detalle_compras y productos.
+
+**Vista6: ventas_totales**
+
+ + Descripción: Esta vista muestra el monto total vendido en un período determinado.
+ + Objetivo: Proporcionar un resumen de las ventas totales, sin entrar en detalles específicos de productos o transacciones individuales.
+ + Tablas/Datos: Incluye campos cantidad, precio y fecha. Tablas: detalle_ventas y ventas.
+
+**Vista7: ventas_detalladas**
+
+ + Descripción: Esta vista muestra los IDs completos de las ventas realizadas. Su objetivo es proporcionar una lista completa y única de identificadores de ventas
+ + Objetivo: Facilita el seguimiento y la referencia a transacciones específicas.
+ + Tablas/Datos: Incluye campos id_producto, producto, id_marca, id_temporada, id_color, id_categoria, cantidad y precio. Tablas: detalle_ventas y productos
+
+**Vista8: ventas_completas**
+
+ + Descripción: Esta vista muestra todos los detalles de las ventas.
+ + Objetivo: Brindar una visión completa y exhaustiva de todas las transacciones de venta realizadas
+ + Tablas/Datos: Incluye campos: producto, marca, temporada, color, categorías, cantidad y precio. Tablas: ventas_detalladas y marcas.
+
+### ⚡Funciones
+
+**Función1: calcular_total_ventas**
+
+ + Descripción: Se multiplica el precio por la cantidad y se suma todo, después se especifica fecha_inicio y fecha_fin del periodo que deseamos revisar.
+ + Objetivo: Calcular y retornar las ventas totales en un período de tiempo específico
+ + Tablas/Datos: La tabla utilizada es ventas_totales.
+
+**Función2: ventas_por_marca**
+
+ + Descripción: Se multiplica el precio por la cantidad y se suma todo, después se especifica la marca que deseamos revisar.
+ + Objetivo: Calcular y retornar las ventas totales de una marca en específico.
+ + Tablas/Datos: La tabla utilizada es ventas_completas.
+
+### ⚡Stored Procedures
+
+**Procedure1: buscar_productos**
+
+ + Descripción: Este procedimiento se utiliza para buscar productos en función de un nombre proporcionado.
+ + Objetivo: Obtener información detallada de un producto en específico de manera automática.
+ + Tablas/Datos: Tablas involucradas, ventas_completas, incluye campos como el nombre del producto, marca, temporada, color, categorías, cantidad y precio.
+
+
+**Procedure2: registrar_venta**	
+
+ + Descripción: Este procedimiento se utiliza para registrar una venta en la tabla "detalle_ventas". Toma como parámetros el ID de la venta, ID del producto, cantidad y precio.
+ + Objetivo: El objetivo es registrar los detalles de una venta en la base de datos y automatiza el proceso de registro de ventas.
+ + Tablas/Datos: La tabla involucrada es detalle_ventas y toma los campos ID de la venta, ID del producto, cantidad y precio.
+
+
+**Procedure3: ordenar_productos**
+
+ + Descripción: Este procedimiento se utiliza para ordenar los productos en función de un campo de orden y un tipo de orden proporcionados como parámetros. Genera una consulta dinámica para ordenar los productos por el campo y tipo de orden especificados.
+ + Objetivo: Obtener una lista de productos ordenados según los criterios especificados. Facilita la visualización y exploración de los productos de manera ordenada, lo que puede ser útil para realizar análisis, generar informes o presentar información de manera más estructurada.
+ + Tablas/Datos: La tabla involucrada es productos.
+
+### ⚡Triggers
+
+**Trigger1: tabla_auditoria**
+
+ + Descripción: Crea una tabla llamada "AUDITORIAS" que se utilizará para almacenar información de auditoría relacionada con los cambios realizados en otras tablas de la base de datos. 
+ + Objetivo: Registro de cambios, seguimiento de actividades, respaldo y recuperación, análisis y reportes
+ + Tablas/Datos: La tabla involucrada es d
+
+
 
 
 
