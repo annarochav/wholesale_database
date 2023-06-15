@@ -177,7 +177,7 @@ Para agregar información a las tablas previamente hechas, hay varias opciones, 
 
 **Informe de inventario de productos de joyería y relojes:** Este informe mostraría la lista de productos de joyería y relojes disponibles en el inventario, incluyendo su identificación, nombre, precio y cantidad en stock.
 
-***Informe de empleados por departamento:** Este informe listaría a todos los empleados que trabajan en la empresa, incluyendo su identificación, nombre, puesto y sueldo. Facilitaría la gestión y supervisión.
+**Informe de empleados por departamento:** Este informe listaría a todos los empleados que trabajan en la empresa, incluyendo su identificación, nombre, puesto y sueldo. Facilitaría la gestión y supervisión.
 
 **Informe de detalle de compras:** Este informe proporcionaría información detallada sobre cada orden de compra, incluyendo los productos adquiridos, la cantidad comprada y el precio unitario. Permitiría tener una visión completa de las compras realizadas, identificando los productos específicos y su correspondiente información de compra.
 
