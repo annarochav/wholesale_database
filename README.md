@@ -189,6 +189,8 @@ Para agregar información a las tablas previamente hechas, hay varias opciones, 
 
 ### ⚡Scripts
 
+ + [Script Tablas](https://github.com/annarochav/wholesale_database/blob/main/tablas.sql)
+
  + [Script Vistas](https://github.com/annarochav/wholesale_database/blob/main/vistas.sql)
 
  + [Script Funciones](https://github.com/annarochav/wholesale_database/blob/main/funciones.sql)
