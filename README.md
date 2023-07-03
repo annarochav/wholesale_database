@@ -187,19 +187,11 @@ Para agregar información a las tablas previamente hechas, hay varias opciones, 
 
 <img src="https://github.com/annarochav/wholesale_database/blob/main/imagenes/t.jpg" width="550" height="" />
 
-### ⚡Scripts
+### ⚡Script
 
- + [Script Tablas](https://github.com/annarochav/wholesale_database/blob/main/tablas.sql)
+ + [Script Completo](https://github.com/annarochav/wholesale_database/blob/main/codigo_completo.sql)
 
- + [Script Vistas](https://github.com/annarochav/wholesale_database/blob/main/vistas.sql)
 
- + [Script Funciones](https://github.com/annarochav/wholesale_database/blob/main/funciones.sql)
-
- + [Script Stored Procedures](https://github.com/annarochav/wholesale_database/blob/main/stored_procedures.sql)
-
- + [Script Triggers](https://github.com/annarochav/wholesale_database/blob/main/triggers.sql)
-
- + [Script Importación de Datos](https://github.com/annarochav/wholesale_database/blob/main/importacion.sql)
 
 
 
